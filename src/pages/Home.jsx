@@ -13,7 +13,7 @@ function Home() {
         <ButtonCustom text="Form" />
       </Link>
 
-      <ButtonCustom text="" />
+      <ButtonCustom text="Empty" />
     </div>
   );
 }
